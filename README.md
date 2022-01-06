@@ -19,4 +19,4 @@ The E-Commerce program uses an api to get information from the database. The inf
 
 
 ## Link
-[Walkthrough_Video](https://watch.screencastify.com/v/WHQlJ9vgTNDw5I5kCcQR)
+[Walkthrough_Video](https://watch.screencastify.com/v/H37ypoM0O8LlbbKKDr8i)
